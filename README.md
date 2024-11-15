@@ -1,6 +1,5 @@
-# Accident Detection System
-
-This Accident Detection System uses Deep Learning to detect road accidents through live video or CCTV footage. It aims to help reduce response times for emergency services by identifying accidents in real time.
+# Accident Detector
+This Accident Detector uses Deep Learning to detect road accidents through live video or CCTV footage. It aims to help reduce response times for emergency services by identifying accidents in real time.
 
 ## Table of Contents
 1. [Introduction](#introduction)
